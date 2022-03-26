@@ -1,0 +1,23 @@
+.card-img{
+    width: 50%;
+    height: 50%;
+    /* box-shadow: 3px 4px 20px; */
+}
+.cart-container{
+    box-shadow: 4px 5px 30px;
+    border-radius: 300px;
+    margin: 9px;  
+}
+.card{
+    border: none;
+    background-color: #ffffff;
+}
+.add-btn{
+    background-color: #dc3545;
+    color: #ffffff;
+    font-weight: 700;
+}
+.add-btn:hover{
+    color: #ffffff;
+    opacity: 0.8;
+}

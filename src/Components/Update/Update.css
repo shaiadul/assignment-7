@@ -1,0 +1,23 @@
+.divs{
+    
+    position: static;
+    padding-left: 3px;
+}
+.update-btn{
+    background-color: #c4913e;
+    padding: 5px;
+    display: inline-block;
+    margin: 6px;
+    border: none;
+    border-radius: 10px;
+    /* color: antiquewhite; */
+    font-weight: 500;
+}
+.update-btn:hover{
+    opacity: 0.9;
+}
+.mini-pic{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
